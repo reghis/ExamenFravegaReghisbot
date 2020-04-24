@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFravegaExamen", "WebFravegaExamen\WebFravegaExamen.csproj", "{AFBA7251-2F79-492C-BC15-0EB72FA5D5E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBA7251-2F79-492C-BC15-0EB72FA5D5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBA7251-2F79-492C-BC15-0EB72FA5D5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBA7251-2F79-492C-BC15-0EB72FA5D5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBA7251-2F79-492C-BC15-0EB72FA5D5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C38F6251-250B-445A-BBB9-0B1F741A7901}
+	EndGlobalSection
+EndGlobal
